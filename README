@@ -1,7 +1,6 @@
-Blue Rhinos Consulting
-Andrew Milsted | andrew@bluerhinos.co.uk | http://www.bluerhinos.co.uk | @bluerhinos
+# EIL Core Server MQTT Demo
+## 易居互动直播MQTT服务 Demo
 
-A simple php class to connect/publish/subscribe to an MQTT broker
+一. 运行环境
+* PHP 5.6 +
 
-Documentation: Coming Soon
-Source: http://github.com/bluerhinos/phpMQTT

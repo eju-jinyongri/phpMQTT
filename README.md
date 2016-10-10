@@ -8,3 +8,6 @@ EIL Core Server MQTT PHP Demo
 二. 代码Demo
   1. [生产者](https://github.com/eju-jinyongri/phpMQTT/blob/master/examples/publish.php) 
   2. [消费者](https://github.com/eju-jinyongri/phpMQTT/blob/master/examples/subscribe.php) 
+
+三. 许可
+  [LICENSE](https://github.com/eju-jinyongri/phpMQTT/blob/master/LICENSE) 
